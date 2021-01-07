@@ -1,0 +1,2 @@
+# LCrepo
+leetcode try
